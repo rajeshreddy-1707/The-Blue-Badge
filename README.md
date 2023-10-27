@@ -1,2 +1,2 @@
 # The-Blue-Badge
-Mavigation Software for the visually impaired people.
+Navigation Software for the visually impaired people.
